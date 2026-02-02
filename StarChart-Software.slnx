@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="ReadMe.md" />
+  </Folder>
+  <Project Path="edit/edit.csproj" />
+  <Project Path="Processor/Processor.csproj" />
+  <Project Path="Selector/Selector.csproj" />
+  <Project Path="Setter/Setter.csproj" />
+  <Project Path="VCR/VCR.csproj" />
+  <Project Path="Writer/Writer.csproj" />
+</Solution>
